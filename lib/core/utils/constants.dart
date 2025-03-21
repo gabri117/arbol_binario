@@ -1,3 +1,3 @@
 class Constants {
-  static const String appName = "Árbol de Empleados";
+  static const String appName = "Árbol Binario de Empleados";
 }
